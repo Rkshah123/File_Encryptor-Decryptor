@@ -110,7 +110,7 @@ The program includes a feature to clear the console screen, ensuring a more plea
 
 - File Encrypted:
 
-  ![3](\images\3.JPG)
+  ![3](images\3.JPG)
 
   
 
