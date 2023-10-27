@@ -62,13 +62,13 @@ The main menu provides a user-friendly interface for accessing various functions
 - **Option 3**: Access the Help menu
 - **Option 4**: Exit the program
 - **Result:**
-- ![1](images\1.JPG)
+- ![1](images/1.JPG)
 
 #### 3.3 Help Menu
 
 The Help menu is accessible by choosing **Option 3** from the main menu. It provides users with a detailed overview of the program's functionality and instructions on how to use it.
 
-![4](images\4.JPG)
+![4](images/4.JPG)
 
 #### 3.4 Clearing the Console
 
@@ -88,13 +88,13 @@ The program includes a feature to clear the console screen, ensuring a more plea
 
 - File without Encryption:
 
-  ![2](images\2.JPG)
+  ![2](images/2.JPG)
 
   
 
   Key generating.
 
-  ![7](images\7.JPG)
+  ![7](images/7.JPG)
 
 ##### 4.1.2 Providing a Custom Key
 
@@ -110,7 +110,7 @@ The program includes a feature to clear the console screen, ensuring a more plea
 
 - File Encrypted:
 
-  ![3](images\3.JPG)
+  ![3](images/3.JPG)
 
   
 
@@ -124,7 +124,7 @@ The program includes a feature to clear the console screen, ensuring a more plea
 
 - File Decrypted:
 
-  ![6](images\6.JPG)
+  ![6](images/6.JPG)
 
 #### 4.3 Error Handling
 
